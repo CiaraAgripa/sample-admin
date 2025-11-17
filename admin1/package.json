@@ -1,0 +1,41 @@
+{
+  "name": "vallytown",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "env-cmd -f .env.dev next dev",
+    "build": " env-cmd -f .env.dev next build",
+    "start": "env-cmd -f .env.dev next start"
+  },
+  "dependencies": {
+    "@next/bundle-analyzer": "^15.5.4",
+    "axios": "^1.12.2",
+    "chart.js": "^4.5.0",
+    "dompurify": "^3.3.0",
+    "env-cmd": "^11.0.0",
+    "i18next": "^25.5.2",
+    "next": "15.5.4",
+    "next-auth": "^4.24.11",
+    "next-i18next": "^15.4.2",
+    "next-translate": "^2.6.2",
+    "react": "19.1.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "19.1.0",
+    "react-i18next": "^16.0.0",
+    "react-icons": "^5.5.0",
+    "styled-components": "^6.1.19",
+    "sweetalert2": "^11.23.0",
+    "use-context-selector": "^2.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/dompurify": "^3.2.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/styled-components": "^5.1.34",
+    "next-translate-plugin": "^2.6.2",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

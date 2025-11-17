@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'NexonFootballGothic';
+    src: url('/fonts/NEXONFootballGothicLA1.woff') format('woff');
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NexonFootballGothic';
+    src: url('/fonts/NEXONFootballGothicBA1.woff') format('woff');
+    font-weight: 700;
+    font-display: swap;
+}

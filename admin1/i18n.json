@@ -1,0 +1,16 @@
+{
+  "locales": [
+    "en",
+    "ko",
+    "vn",
+    "jp",
+    "cn"
+  ],
+  "defaultLocale": "ko",
+  "localeDetection": false,
+  "pages": {
+    "*": [
+      "common"
+    ]
+  }
+}
